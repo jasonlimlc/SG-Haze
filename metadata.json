@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Haze & PSI Live Tracker",
+  "description": "Real-time Singapore PSI & PM2.5 air quality tracker across North, South, East, West, and Central regions with hazardous threshold alerts, interactive regional map, and MOH health advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
